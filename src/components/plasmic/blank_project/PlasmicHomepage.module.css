@@ -11,6 +11,8 @@
   width: 989px;
   height: 580px;
   display: block;
+  align-self: center;
+  position: relative;
   flex-shrink: 0;
 }
 .infoCard {
@@ -71,7 +73,7 @@
   right: 0px;
   bottom: 10px;
 }
-.freeBox__pbLgz {
+.freeBox__gpipB {
   display: block;
   font-size: 24px;
   font-family: "Poppins", sans-serif;
@@ -82,7 +84,7 @@
   position: relative;
   width: 411px;
 }
-.freeBox__hcRwc {
+.freeBox__oKy6S {
   display: block;
   font-size: 12px;
   text-align: justify;
@@ -126,6 +128,8 @@
   display: inline-flex;
   position: relative;
   flex-direction: column;
+  transition-property: all;
+  transition-duration: 1s;
 }
 .frame48 > :global(.__wab_flex-container) {
   flex-direction: column;
@@ -183,7 +187,7 @@
   top: 21px;
   left: 21px;
 }
-.freeBox__nButN {
+.freeBox__xrMgr {
   display: block;
   font-size: 14px;
   text-align: center;
@@ -192,7 +196,7 @@
   color: rgba(255, 255, 255, 1);
   position: relative;
 }
-.freeBox__qF2HN {
+.freeBox__nQ3Un {
   display: block;
   font-size: 14px;
   text-align: center;
@@ -276,7 +280,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.freeBox__yyewG {
+.freeBox__dxAmN {
   display: block;
   font-size: 12px;
   font-family: "Poppins", sans-serif;
@@ -314,7 +318,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.freeBox__d62U {
+.freeBox__eiLQk {
   display: block;
   font-size: 12px;
   font-family: "Poppins", sans-serif;
@@ -387,7 +391,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.freeBox__jfx2R {
+.freeBox___0Kgy1 {
   display: block;
   font-size: 12px;
   text-align: center;
