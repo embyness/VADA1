@@ -1,0 +1,33 @@
+.root {
+  background: rgba(25, 25, 25, 1);
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  width: auto;
+  height: auto;
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+  padding: 115px 61px;
+}
+.root > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-top: calc(0px - 23px);
+  height: calc(100% + 23px);
+}
+.root > :global(.__wab_flex-container) > *,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > * {
+  margin-top: 23px;
+}
+.usernameShuriken:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
+.infoText:global(.__wab_instance) {
+  position: relative;
+}
+.infoText2:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}

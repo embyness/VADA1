@@ -39,6 +39,149 @@
           "cssFilePath": "plasmic/blank_project/PlasmicHomepage.module.css",
           "scheme": "blackbox",
           "componentType": "page"
+        },
+        {
+          "id": "LUHUSpECu9",
+          "name": "LoginScreenIcon",
+          "type": "managed",
+          "projectId": "tmSTp4sEZSUn4K52S4J5Cc",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicLoginScreenIcon.tsx",
+          "importSpec": {
+            "modulePath": "LoginScreenIcon.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicLoginScreenIcon.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "X6r6xnnRXH",
+          "name": "LoginScreenFirstName",
+          "type": "managed",
+          "projectId": "tmSTp4sEZSUn4K52S4J5Cc",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicLoginScreenFirstName.tsx",
+          "importSpec": {
+            "modulePath": "LoginScreenFirstName.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicLoginScreenFirstName.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "Da-4O1R6XR",
+          "name": "LoginScreenLastName",
+          "type": "managed",
+          "projectId": "tmSTp4sEZSUn4K52S4J5Cc",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicLoginScreenLastName.tsx",
+          "importSpec": {
+            "modulePath": "LoginScreenLastName.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicLoginScreenLastName.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "63Pv9Z3P-4",
+          "name": "LoginScreenHeader",
+          "type": "managed",
+          "projectId": "tmSTp4sEZSUn4K52S4J5Cc",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicLoginScreenHeader.tsx",
+          "importSpec": {
+            "modulePath": "LoginScreenHeader.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicLoginScreenHeader.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "RgbrLvftDJH",
+          "name": "LoginScreenInputFields",
+          "type": "managed",
+          "projectId": "tmSTp4sEZSUn4K52S4J5Cc",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicLoginScreenInputFields.tsx",
+          "importSpec": {
+            "modulePath": "LoginScreenInputFields.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicLoginScreenInputFields.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "3cVUvuSuaX",
+          "name": "LoginScreenUsername",
+          "type": "managed",
+          "projectId": "tmSTp4sEZSUn4K52S4J5Cc",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicLoginScreenUsername.tsx",
+          "importSpec": {
+            "modulePath": "LoginScreenUsername.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicLoginScreenUsername.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "yTY17323UJ",
+          "name": "LoginCardPersonal",
+          "type": "managed",
+          "projectId": "tmSTp4sEZSUn4K52S4J5Cc",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicLoginCardPersonal.tsx",
+          "importSpec": {
+            "modulePath": "LoginCardPersonal.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicLoginCardPersonal.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "hD6c_JkoI2",
+          "name": "LoginInfoCard",
+          "type": "managed",
+          "projectId": "tmSTp4sEZSUn4K52S4J5Cc",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicLoginInfoCard.tsx",
+          "importSpec": {
+            "modulePath": "LoginInfoCard.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicLoginInfoCard.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "MJcMq4T9I0",
+          "name": "UsernameShuriken",
+          "type": "managed",
+          "projectId": "tmSTp4sEZSUn4K52S4J5Cc",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicUsernameShuriken.tsx",
+          "importSpec": {
+            "modulePath": "UsernameShuriken.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicUsernameShuriken.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "CdGBKX-GF3",
+          "name": "InfoText",
+          "type": "managed",
+          "projectId": "tmSTp4sEZSUn4K52S4J5Cc",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicInfoText.tsx",
+          "importSpec": {
+            "modulePath": "InfoText.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicInfoText.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "qVl3P7-CbV",
+          "name": "InfoText2",
+          "type": "managed",
+          "projectId": "tmSTp4sEZSUn4K52S4J5Cc",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicInfoText2.tsx",
+          "importSpec": {
+            "modulePath": "InfoText2.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicInfoText2.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
         }
       ],
       "icons": [
@@ -66,8 +209,7 @@
         }
       ],
       "codeComponents": [],
-      "projectApiToken": "6Fo6BYHKVzx1QvFedBy3VnLA7sv0kt7p4B4z1NkMO3P6bPwe1J6ixbnfZg0l5i3tqrg5fC3SjrRZhT2vaS2KQ",
-      "jsBundleThemes": []
+      "projectApiToken": "6Fo6BYHKVzx1QvFedBy3VnLA7sv0kt7p4B4z1NkMO3P6bPwe1J6ixbnfZg0l5i3tqrg5fC3SjrRZhT2vaS2KQ"
     },
     {
       "projectId": "icswXejsx2auswSa1so6Be",
@@ -189,7 +331,8 @@
         }
       ],
       "codeComponents": [],
-      "projectApiToken": "1RLbSbNbGQQvNl2nHRqc2x4k7tSjFzdu2VStwgKgiIdtgTgQbN6BJ0tfnVaR43EVaRQ3XpwFk0npaWKgiG52Og"
+      "projectApiToken": "1RLbSbNbGQQvNl2nHRqc2x4k7tSjFzdu2VStwgKgiIdtgTgQbN6BJ0tfnVaR43EVaRQ3XpwFk0npaWKgiG52Og",
+      "jsBundleThemes": []
     }
   ],
   "globalVariants": {
@@ -208,6 +351,6 @@
       }
     ]
   },
-  "cliVersion": "0.1.157",
-  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.157/dist/plasmic.schema.json"
+  "cliVersion": "0.1.158",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.158/dist/plasmic.schema.json"
 }
